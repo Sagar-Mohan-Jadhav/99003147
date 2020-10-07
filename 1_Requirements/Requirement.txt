@@ -1,0 +1,10 @@
+Requirements:
+It uses operating system, compilers and programming language. Which are mentioned as follows.
+
+Operating System: Windows or Ubuntu.
+
+Compiler: GCC.
+
+IDE: Code Blocks.
+
+Programming Language: C language.
