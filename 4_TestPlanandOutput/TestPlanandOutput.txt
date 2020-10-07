@@ -1,0 +1,14 @@
+Test Plan:
+We are going to subject the program to a real life scenario. We will input the monthly income of a person and add its daily expenditure and fixed expenditure to the program. 
+We will also add a set target saving goal.
+	
+Test case:
+Income: Rs.30,000/-
+
+Daily expenses: Variable(food, shopping, grocery etc.).
+
+Monthly fixed expenses: Rs.10,000/-(Loans, rents etc.).
+
+Monthly variable expenses: Electricity bills, Phone bills etc.
+
+Goals: Rs. 5,000/- minimum saving.
