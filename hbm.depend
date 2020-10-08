@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1602175204 source:c:\users\dell\desktop\hbm\hbm\src\hbm.c
+	<stdio.h>
+
+1602176463 source:c:\users\dell\desktop\hbm\hbm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hbm.h"
+	"test_hbm.h"
+
+1602175277 c:\users\dell\desktop\hbm\hbm\hbm.h
+
+1602176056 c:\users\dell\desktop\hbm\hbm\test\test_hbm.h
+
+1602176553 source:c:\users\dell\desktop\hbm\hbm\test\test_hbm.c
+	"unity.h"
+
+1596665268 c:\users\dell\desktop\hbm\hbm\unity\unity.h
+	"unity_internals.h"
+
+1596665268 c:\users\dell\desktop\hbm\hbm\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
