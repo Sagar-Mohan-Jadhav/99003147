@@ -1,0 +1,14 @@
+Implementation:
+A budget simply shows how much money you have coming in and how those funds are spent. It is one of the most important tools that help you to build a successful financial status.
+Household budget management is the way of managing the budget of the family so that the financial status can be managed in a well organized way. 
+This application will help in setting the goals and calculate the expenses based on the goals that have been set. This will help in analyzing the income and the expenses. 
+This will also help to analyze your spending and balance your checkbook accordingly.
+
+The features that can be included in the household budget management system are as follows:
+
+Set goals: Goals can be set based on immediate and long term goals. Immediate goals refer to the spending amount on day to day basis and long term goals can refer to 
+saving of the amount for the future use.
+
+Income: The monthly income of the family can be given as the input to this application.
+
+Calculate expenses: The monthly expenditures can be calculated based on the amount that is spent.
