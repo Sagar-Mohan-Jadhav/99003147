@@ -9,7 +9,7 @@ int hbm() {
 	scanf("%d", &in);
 	printf("\nMonthly loan amount= ");
 	scanf("%d", &lo);
-    printf("\nMonthly house rent amount= ");
+        printf("\nMonthly house rent amount= ");
 	scanf("%d", &hr);
 	printf("\nSet monthly savings goal= ");
 	scanf("%d", &go);
