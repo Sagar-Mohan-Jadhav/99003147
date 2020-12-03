@@ -3,3 +3,4 @@
 ![cppcheck-action](https://github.com/Sagar-Mohan-Jadhav/stepin104280/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/Sagar-Mohan-Jadhav/stepin104280/workflows/CI/badge.svg)
 ![Unit testing](https://github.com/Sagar-Mohan-Jadhav/stepin104280/workflows/Unit%20testing/badge.svg)
+![Valgrind](https://github.com/99003181/applied_sdlc/workflows/Valgrind/badge.svg)
